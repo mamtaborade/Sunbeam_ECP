@@ -1,0 +1,9 @@
+101 John 85.50
+102 Alice 90.00
+103 Bob 75.00
+101 John 85.50
+102 Alice 90.00
+103 Bob 75.00
+101 Mamta 85.50
+102 Virat 90.00
+103 Shrutika 75.00
